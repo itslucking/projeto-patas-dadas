@@ -1,0 +1,17 @@
+*{
+    font-family: Kanit;
+}
+.col-3{
+    width: 33.3%;
+}
+p{
+    color:red;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.col-3 img{
+    max-width: 100%;
+}
